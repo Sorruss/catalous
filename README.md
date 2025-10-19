@@ -9,14 +9,14 @@ Each team member developed an independent subsystem, integrated into the final p
 
 ## 👥Team Roles
 
-**[zirapupa](https://github.com/zirapupa)** — Level & Quest System Developer, Game Designer, UI/UX Artist
+**[zirapupa](https://github.com/zirapupa)** — Level & Quest System Developer, Game Designer
 - Designed level architecture and world structure
 - Created in-game hint system
 - Developed NPC interaction & dialogue system
 - Built and decorated playable levels (Hub, Tutorial, Catacombs, Boss Arena)
 - Handled lighting, sound, atmosphere, and environmental storytelling
 
-**[sorrus](https://github.com/Sorruss)** — Combat System Developer
+**[sorrus](https://github.com/Sorruss)** — Combat System Developer, UI/UX Artist
 - Implemented player combat logic and enemy AI
 - Created UI/UX elements
 - Save system
